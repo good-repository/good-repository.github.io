@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.4db01ad6.chunk.css",
-    "main.js": "/static/js/main.83f43a3c.chunk.js",
-    "main.js.map": "/static/js/main.83f43a3c.chunk.js.map",
+    "main.css": "/static/css/main.6dee6bfd.chunk.css",
+    "main.js": "/static/js/main.27425320.chunk.js",
+    "main.js.map": "/static/js/main.27425320.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41b565a7.js",
     "runtime-main.js.map": "/static/js/runtime-main.41b565a7.js.map",
     "static/css/2.1cd71c6b.chunk.css": "/static/css/2.1cd71c6b.chunk.css",
-    "static/js/2.219540c4.chunk.js": "/static/js/2.219540c4.chunk.js",
-    "static/js/2.219540c4.chunk.js.map": "/static/js/2.219540c4.chunk.js.map",
+    "static/js/2.0f0716df.chunk.js": "/static/js/2.0f0716df.chunk.js",
+    "static/js/2.0f0716df.chunk.js.map": "/static/js/2.0f0716df.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1cd71c6b.chunk.css.map": "/static/css/2.1cd71c6b.chunk.css.map",
-    "static/css/main.4db01ad6.chunk.css.map": "/static/css/main.4db01ad6.chunk.css.map",
-    "static/js/2.219540c4.chunk.js.LICENSE.txt": "/static/js/2.219540c4.chunk.js.LICENSE.txt",
+    "static/css/main.6dee6bfd.chunk.css.map": "/static/css/main.6dee6bfd.chunk.css.map",
+    "static/js/2.0f0716df.chunk.js.LICENSE.txt": "/static/js/2.0f0716df.chunk.js.LICENSE.txt",
+    "static/media/alemanha.1dd2239d.svg": "/static/media/alemanha.1dd2239d.svg",
     "static/media/bootstrap-stack.d5210cde.png": "/static/media/bootstrap-stack.d5210cde.png",
+    "static/media/brasil.6914768c.svg": "/static/media/brasil.6914768c.svg",
     "static/media/c-cplus.13875664.png": "/static/media/c-cplus.13875664.png",
     "static/media/context-react.468c2777.png": "/static/media/context-react.468c2777.png",
     "static/media/css.88905159.png": "/static/media/css.88905159.png",
     "static/media/devbg.54824690.jpg": "/static/media/devbg.54824690.jpg",
     "static/media/docker.255303f5.png": "/static/media/docker.255303f5.png",
+    "static/media/espanha.9ff8ec55.svg": "/static/media/espanha.9ff8ec55.svg",
+    "static/media/estados-unidos.fcbf5a7f.svg": "/static/media/estados-unidos.fcbf5a7f.svg",
     "static/media/expo.0b90a721.png": "/static/media/expo.0b90a721.png",
     "static/media/express.adaac69a.png": "/static/media/express.adaac69a.png",
     "static/media/flux-arch.d8b02f98.svg": "/static/media/flux-arch.d8b02f98.svg",
@@ -44,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.41b565a7.js",
     "static/css/2.1cd71c6b.chunk.css",
-    "static/js/2.219540c4.chunk.js",
-    "static/css/main.4db01ad6.chunk.css",
-    "static/js/main.83f43a3c.chunk.js"
+    "static/js/2.0f0716df.chunk.js",
+    "static/css/main.6dee6bfd.chunk.css",
+    "static/js/main.27425320.chunk.js"
   ]
 }
