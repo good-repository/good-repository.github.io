@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e32fc4e5.chunk.css",
-    "main.js": "/static/js/main.2edec997.chunk.js",
-    "main.js.map": "/static/js/main.2edec997.chunk.js.map",
+    "main.js": "/static/js/main.488f9537.chunk.js",
+    "main.js.map": "/static/js/main.488f9537.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.41b565a7.js",
     "runtime-main.js.map": "/static/js/runtime-main.41b565a7.js.map",
     "static/css/2.1cd71c6b.chunk.css": "/static/css/2.1cd71c6b.chunk.css",
@@ -15,7 +15,6 @@
     "static/media/alemanha.1dd2239d.svg": "/static/media/alemanha.1dd2239d.svg",
     "static/media/bootstrap-stack.d5210cde.png": "/static/media/bootstrap-stack.d5210cde.png",
     "static/media/brasil.6914768c.svg": "/static/media/brasil.6914768c.svg",
-    "static/media/c-cplus.13875664.png": "/static/media/c-cplus.13875664.png",
     "static/media/caloteiros.4c8abb2f.png": "/static/media/caloteiros.4c8abb2f.png",
     "static/media/context-react.468c2777.png": "/static/media/context-react.468c2777.png",
     "static/media/css.88905159.png": "/static/media/css.88905159.png",
@@ -29,8 +28,8 @@
     "static/media/github.14e897c5.png": "/static/media/github.14e897c5.png",
     "static/media/goBarber.43f2df3d.png": "/static/media/goBarber.43f2df3d.png",
     "static/media/html.91c24f93.png": "/static/media/html.91c24f93.png",
+    "static/media/jest.c4ca9225.png": "/static/media/jest.c4ca9225.png",
     "static/media/journalist.32a9f278.jpg": "/static/media/journalist.32a9f278.jpg",
-    "static/media/kotlin.0012a5c0.png": "/static/media/kotlin.0012a5c0.png",
     "static/media/materialui.6ed975df.png": "/static/media/materialui.6ed975df.png",
     "static/media/moneyManager.d3378dc7.png": "/static/media/moneyManager.d3378dc7.png",
     "static/media/mongodb.0092722b.svg": "/static/media/mongodb.0092722b.svg",
@@ -46,6 +45,7 @@
     "static/media/sass.3bd84b23.svg": "/static/media/sass.3bd84b23.svg",
     "static/media/scrum.a498de19.png": "/static/media/scrum.a498de19.png",
     "static/media/styled-components.186b514d.png": "/static/media/styled-components.186b514d.png",
+    "static/media/tdd.843f8ad1.png": "/static/media/tdd.843f8ad1.png",
     "static/media/toDo.f028e434.png": "/static/media/toDo.f028e434.png",
     "static/media/webpack.38f1fb2b.svg": "/static/media/webpack.38f1fb2b.svg",
     "static/media/websocket.22801d4a.png": "/static/media/websocket.22801d4a.png",
@@ -56,6 +56,6 @@
     "static/css/2.1cd71c6b.chunk.css",
     "static/js/2.0f0716df.chunk.js",
     "static/css/main.e32fc4e5.chunk.css",
-    "static/js/main.2edec997.chunk.js"
+    "static/js/main.488f9537.chunk.js"
   ]
 }
